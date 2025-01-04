@@ -1,7 +1,7 @@
 [
-    { "id": "1", "number": "1", "word": "Toit" },
-    { "id": "2", "number": "2", "word": "Nez" },
-    { "id": "3", "number": "3", "word": "Mont" },
-    { "id": "4", "number": "4", "word": "Rat" },
-    { "id": "5", "number": "5", "word": "Lit" },
+    { "id": 1, "number": 1, "word": "Toit" },
+    { "id": 2, "number": 2, "word": "Nez" },
+    { "id": 3, "number": 3, "word": "Mont" },
+    { "id": 4, "number": 4, "word": "Rat" },
+    { "id": 5, "number": 5, "word": "Lit" },
 ]
